@@ -2,7 +2,7 @@
 ## Description
 This program can be used to compare boxing contendors from Light Middle Weight to Heavy Weight. Points are assigned to the boxers for comparison purposes. This data can be used to compare contendors and to predict who might win a fight. The points are assigned to contendors based on official rankings from BoxRec, TBRB, The Ring and current Weight division champions 
 
-## pre-Requisites
+## Pre-Requisites
 - Python 3
 - Pandas
 - Excel
